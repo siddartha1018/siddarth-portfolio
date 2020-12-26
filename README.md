@@ -1,2 +1,12 @@
 # This is my portfolio.
-all my details are in it
+
+Hey! Welcome to my portfolio.
+
+It's coming up tomorrow when i learn html and css.
+
+For now,i know:
+
+1. JavaScript
+1. NodeJs
+1. repl.it 
+1. CHALK
